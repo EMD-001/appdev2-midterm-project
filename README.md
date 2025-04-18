@@ -23,12 +23,12 @@ This project is a simple CRUD HTTP Server using the File System Module for stori
 
 This are the API appropriate status codes and meanings:
 
-✅ 200 – Success
-❌ 400 – Bad request (e.g., missing fields, invalid data)
-❌ 404 – Not found (e.g., trying to fetch a non-existent todo)
-❌ 500 – Internal server error (e.g., failed file operations)
+-✅ 200 – Success
+-❌ 400 – Bad request (e.g., missing fields, invalid data)
+-❌ 404 – Not found (e.g., trying to fetch a non-existent todo)
+-❌ 500 – Internal server error (e.g., failed file operations)
 
-
+---
 
 ## 🔧 Installation & Running the Project
 
