@@ -1,0 +1,17 @@
+[
+  {
+    "id": 2,
+    "title": "Learn Node.js",
+    "completed": true
+  },
+  {
+    "id": 3,
+    "title": "Finish midterm project",
+    "completed": false
+  },
+  {
+    "id": 4,
+    "title": "Midterm project for appdev2",
+    "completed": false
+  }
+]
